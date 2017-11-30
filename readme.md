@@ -1,12 +1,17 @@
 学习Lucene 7
 ========
 
+建立索引：
+com.test.demo.CreateIndex
 
-参考： http://blog.csdn.net/starjuly/article/details/74625748
+查询：
+com.test.demo.Search
 
 
 ## 安装luke
 https://github.com/DmitryKey/luke
+
+用来查看分词结果
 
 ```
 mvn install && ./start
